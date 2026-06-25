@@ -140,12 +140,8 @@ npm start
 
 
 
-#  Authors
+#  Author
 
 
 - [Nalluri Sanjay](www.linkedin.com/in/sanjaynalluri2405)
-
-
----
-
 
